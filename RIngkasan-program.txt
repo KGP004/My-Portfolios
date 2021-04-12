@@ -1,0 +1,1 @@
+Program ini merupakan optimasi saham sederhana untuk 7 hingga 10 jenis saham
